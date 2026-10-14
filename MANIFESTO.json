@@ -1,0 +1,307 @@
+[
+  {
+    "arquivo": "LEIA-ME.md",
+    "bytes": 3985,
+    "sha256": "c6b4c6db5e26354d77400056d5c1b571d5187845e05dcabb9f3f2f3181735497"
+  },
+  {
+    "arquivo": "SKILL.md",
+    "bytes": 10164,
+    "sha256": "8e0676e4cffa6348cc51f4a5f5a9f53bc775df2b2b47440648386de716795275"
+  },
+  {
+    "arquivo": "assets/decupagem.csv",
+    "bytes": 133,
+    "sha256": "e13529a1666cf62e975d1d19eb56f140ba05b670ea1ada4d9480b6d67a9f5e04"
+  },
+  {
+    "arquivo": "references/direcao-e-motion.md",
+    "bytes": 4611,
+    "sha256": "c074844ccc174cdf022c9297dcd59369fe2b2b5c2b469c785a42e7f88d8df193"
+  },
+  {
+    "arquivo": "references/revisao.md",
+    "bytes": 1180,
+    "sha256": "1f27f468254afa3b167aaf4267ebea5a3bc1f52b95876749c901f0f83e0380c5"
+  },
+  {
+    "arquivo": "references/sincronizacao.md",
+    "bytes": 3800,
+    "sha256": "83dd5184f36fa2912d95bb7f9b74daf5ba51801ff69d3afb5d8d5822ddeb8f64"
+  },
+  {
+    "arquivo": "referencias/INDICE.md",
+    "bytes": 1049,
+    "sha256": "b822c1c26eec0c265269795398cb5d3470e7326d0194c62502af1aed01692621"
+  },
+  {
+    "arquivo": "referencias/Automatizar-Processo/GUIA.md",
+    "bytes": 1201,
+    "sha256": "249baa900aba9135237f1acd16a4fed97c7e5ee1cd2f8c352841666d7c24431d"
+  },
+  {
+    "arquivo": "referencias/Automatizar-Processo/timestamp.txt",
+    "bytes": 2146,
+    "sha256": "2924ebae5152d2492ffb01e850a927d6981c2921eae7054ef154531624ef56ab"
+  },
+  {
+    "arquivo": "referencias/Bom-Gosto/GUIA.md",
+    "bytes": 1159,
+    "sha256": "ad883c145c9dd90a38ac64f062a17038c617be17dea2dc1777d2583eb573e00b"
+  },
+  {
+    "arquivo": "referencias/Bom-Gosto/timestamp.txt",
+    "bytes": 2348,
+    "sha256": "6e22cd0a754f2812c4a56069775deddeb35e3bc52a2e1c2e4b7c8862c73bfcae"
+  },
+  {
+    "arquivo": "referencias/ChatGPT/GUIA.md",
+    "bytes": 1168,
+    "sha256": "7077d6913a90c2c346991012363a8859c2a2e68919b64264f6695917dd1cbf45"
+  },
+  {
+    "arquivo": "referencias/ChatGPT/timestamp.txt",
+    "bytes": 2435,
+    "sha256": "a24bd0b76eeef2bf09cf0b3b193d843b65f590e9d51d43dc66e3d5ec88ef804a"
+  },
+  {
+    "arquivo": "referencias/Empresa-Light/GUIA.md",
+    "bytes": 1171,
+    "sha256": "408721d117687d846cf8fbcab4b95c0778c5ab132f2fb32ed323e82281676f8e"
+  },
+  {
+    "arquivo": "referencias/Empresa-Light/timestamp.txt",
+    "bytes": 1554,
+    "sha256": "f6071b7d613f052495c2b0c26524223f58219df53de7dc7e7475db29ca6d887d"
+  },
+  {
+    "arquivo": "referencias/Internet-Cansada/GUIA.md",
+    "bytes": 1178,
+    "sha256": "97deb406320e8497186a0fd7124e7b82e021b62564858531c8ab543e8f125100"
+  },
+  {
+    "arquivo": "referencias/Internet-Cansada/timestamp.txt",
+    "bytes": 2053,
+    "sha256": "1b55073048f625de48edb6ae34cf706863eb2a76e93077e394b85896ed9dba28"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/package-lock.json",
+    "bytes": 109249,
+    "sha256": "0481b2653d910e05988a901c0e41cffaa7efb3968b67291fbe7e86ab491e9fb5"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/package.json",
+    "bytes": 458,
+    "sha256": "942d830209dbcb070900e12c11de90cc280ca12f026c59f2333a01da9beab18f"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/tsconfig.json",
+    "bytes": 327,
+    "sha256": "b777545c4009257c6e4eda8cf310e9bcec7a44d6954184ee38fcfef7b7d25470"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/src/assets.d.ts",
+    "bytes": 192,
+    "sha256": "a60874e10e2d419c48def558528f3b253ba8ddcb95e8fe4e246ad75bc94ce272"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/src/ConteudoAutomatizarProcessoV2.tsx",
+    "bytes": 50695,
+    "sha256": "a611820d955d21b63a97da7bba8b6e8766da5605019aa66364129f55db88ba6e"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/src/ConteudoBomGostoEdicao.tsx",
+    "bytes": 50600,
+    "sha256": "45ce6e058cac250b4df984ba0e840751f561612f367a3a47cd07d82d2ac70d51"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/src/ConteudoEmpresaEdicaoLight.tsx",
+    "bytes": 68574,
+    "sha256": "8567ad96f033a15422d5f162d3c598aab1befed1a44c2fe5428fb821e8a96240"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/src/ConteudoGPT6Dinamico.tsx",
+    "bytes": 23518,
+    "sha256": "a4aa37a561ac883ef0b24dd5e5cb213de1bc45482496dd65d449ba494dddd5f3"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/src/ConteudoInternetCansada.tsx",
+    "bytes": 27552,
+    "sha256": "91486cbb6164ddb9f0c0f6d4126d25d5ceee27e5faf44e54b8ed606eaa5fb3ce"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/src/gpt6-cues.ts",
+    "bytes": 4144,
+    "sha256": "b40cf71e5ff667f7938268169f4b524fc1f78445ef399b48ac02be3adceb8280"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/src/GPT6Editorial.tsx",
+    "bytes": 14246,
+    "sha256": "db57248cc2314e7c63b531580f6dfb6b9795a6c765dc45fe586ba3ec5f05ea6f"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/src/index.tsx",
+    "bytes": 1151,
+    "sha256": "78aea54f1e02ee9b50b5164d9fc7fe128336d6b6994ead5676ca7a2de68bc579"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/public/gpt6-dinamico/barreira.png",
+    "bytes": 1623661,
+    "sha256": "e6f0153a93d57a0a9fd111800379f18d2f2e22e715e68e1ef225dde9f8b02cb2"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/public/gpt6-dinamico/conversa.png",
+    "bytes": 1751736,
+    "sha256": "ec0ac9a85f70001d73b1f3b462832f301fce186794e7d48ae106e785e2cc036c"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/public/gpt6-dinamico/edicao.png",
+    "bytes": 1773756,
+    "sha256": "c9106a7e78db14dbba6b7a527c1c5e57ea376d088f47a64cd84ac42d9aa644d4"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/public/gpt6-dinamico/ideia.png",
+    "bytes": 1244457,
+    "sha256": "00964ba349a97d1a97244842d45c1066e4b82aed412c8fc4a7c16b4fab2163d1"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/public/gpt6-dinamico/openai.svg",
+    "bytes": 1775,
+    "sha256": "a41e8e53b14ef686319ed1529066d6a3391aca77d7f6eaaa9f0783acc717375f"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/public/gpt6-dinamico/repertorio.png",
+    "bytes": 2036220,
+    "sha256": "e511423242884a443c09e2959fa711f5c4b7d9911f98ae73a4a635b9ae7e6f57"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/src/public/colagem_01_bom_gosto.jpg",
+    "bytes": 826804,
+    "sha256": "ad7ebdd9735f7ac25f9249b238362ca8d3f02cd2ec8b3cbc56f2bf47e88f7041"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/src/public/colagem_02_ia_criacao.jpg",
+    "bytes": 1119156,
+    "sha256": "58ebe6e9b70831506024f45e15923051f60dc0383174630aa55bc344cf834f70"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/src/public/colagem_03_execucao.jpg",
+    "bytes": 1141914,
+    "sha256": "07a0f0abe58655deee16d6721d9b34265133f2168e36ba66dede44726214a08d"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/src/public/colagem_04_curadoria.jpg",
+    "bytes": 978519,
+    "sha256": "dbaefd8747098442e6573afc61316fcfa8feb1746d7ed77942cac1358aa9dcf4"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/src/public/colagem_05_repertorio.jpg",
+    "bytes": 938358,
+    "sha256": "98def84df889f7116331ff96a8223dde420a7b17c2907596671cdd43f72e44ba"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/src/public/colagem_06_cem_ideias.jpg",
+    "bytes": 989026,
+    "sha256": "6b4e33f800e0402eebd152d0304e8e1e9efc8fe70cb165d582912a2011080f7d"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/src/public/colagem_07_merece_existir.jpg",
+    "bytes": 884577,
+    "sha256": "3989d829c03103099831cc0386f1dbd2ce372752a98a22c4a156083e50ebee9b"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/src/public/colagem_auto_01_criatividade_processo.png",
+    "bytes": 3428706,
+    "sha256": "f201b4c982ed9f8e0fe6d9c0fc02b666c9bbab38d0d4b3c83598da4f0748d17c"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/src/public/colagem_auto_02_decisoes_visuais.png",
+    "bytes": 2929575,
+    "sha256": "d89e186727e1a37047d18ca4911818758bc83877e10f6f47dc959db5b614ab74"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/src/public/colagem_auto_03_imagem_movimento.png",
+    "bytes": 2906177,
+    "sha256": "f9ea75a8dd0f08f888f3e797cd28017e5fc7d533c7076939048e10f0edee689c"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/src/public/colagem_auto_04_sistema_criativo.png",
+    "bytes": 2621439,
+    "sha256": "52daf0f24d940be81863a440dbb7d128d02583edbf8c412ed4c870c8ace0ed58"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/src/public/colagem_auto_05_ideia_humana.png",
+    "bytes": 2501729,
+    "sha256": "52c8a77663d5a65ea9b53f4a94ba7dadcaf462171c0d59610f6e26127134e28b"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/src/public/colagem_auto_06_caminho_visual.png",
+    "bytes": 2707054,
+    "sha256": "6ca004edabe47ea3604706792db201a4c6b3b78d14d63acf3e162f281bd3922c"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/src/public/colagem_auto_07_distancia_criacao.png",
+    "bytes": 2965128,
+    "sha256": "d054c04e961c5972c6e51d02530d2525b3ec8329931d551e617a50eb35cb7615"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/src/public/colagem_auto_08_futuro_criacao.png",
+    "bytes": 2627070,
+    "sha256": "c271325c15d2de7481914ebded2ee5480152312de3e176ce43de4a06ced8dcdc"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/src/public/conteúdo-empresa.mp4",
+    "bytes": 49738479,
+    "sha256": "fef55362a510aff3238294692e9a3e8cfd26233cef01673ad6471af21803c2ad"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/src/public/internet_01_mao_celular.png",
+    "bytes": 2086285,
+    "sha256": "05360073e644e56f07615d4d856c1953ca8c7e60e5fa9a9fb9581899e12d1652"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/src/public/internet_02_esteira_conteudo.png",
+    "bytes": 1949684,
+    "sha256": "edbe47d6876ef3acdb070142a9cde530209c658cbac1167fdd34a3159fa4ece5"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/src/public/internet_03_atencao_tempo.png",
+    "bytes": 2466204,
+    "sha256": "e523ca5f5502f817175b66965457256805fe57e225739cc250c3b28d8dd0b2aa"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/src/public/internet_04_escolher_seguir.png",
+    "bytes": 1997968,
+    "sha256": "3f575e009f81c2300c30fb0b19f073c6bad10cf9e90a012e76678ffe91472d58"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/src/public/internet_05_feed_infinito.png",
+    "bytes": 2047901,
+    "sha256": "80dda257f7838143fab4b95c8764a24f199a52c212cc492cdf20b3391bb0bd2e"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/src/public/internet_06_direcao_bussola.png",
+    "bytes": 2874571,
+    "sha256": "7b48770a3d46a9084c99bec9dc2cb8e292eefb4e990a0bb5a59406e2ff392744"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/src/public/video_automatizar_processo.mp4",
+    "bytes": 26431527,
+    "sha256": "21b223641fbe7a62f8e276b6018b7bce0e4666ba13c5139f9735eed4a9b7062f"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/src/public/video_gpt6.mp4",
+    "bytes": 24798955,
+    "sha256": "0c813f6ff5e27215eb3c26ef87f63ed3b9437136cae52e001a5438983469ce64"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/src/public/video_internet_cansada.mp4",
+    "bytes": 23847196,
+    "sha256": "7bef67de8d39550eff0d5cb6d4c14364b34b0fd4ca735ca91080fbed5cc46b21"
+  },
+  {
+    "arquivo": "referencias/projeto-remotion/src/public/Vídeo_Bom_gosto.mp4",
+    "bytes": 29300927,
+    "sha256": "9857103654136c60f831dc8938ba4b090ec0302ad0578caa0bfbcdf4b4c6c566"
+  }
+]
